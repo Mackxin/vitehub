@@ -8,6 +8,8 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: '/vitehub/ico.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    siteTitle: 'VitHub小白',
+    logo: "/telegram.svg",
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }

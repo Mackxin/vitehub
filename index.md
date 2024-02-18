@@ -3,13 +3,16 @@
 layout: home
 
 hero:
-  name: "bao"
-  text: "xiaobaobao"
-  tagline: My great project tagline
+  name: "宝小小宝"
+  text: "vite俱乐部"
+  tagline: 小白学习vitepress文档视频网站
+  image:
+    src: /vitehubwechat.jpg
+    alt: vithubwechat
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 🍐Vithub
+      link: http://baoxiaobao.asia/
     - theme: alt
       text: API Examples
       link: /api-examples
