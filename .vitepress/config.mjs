@@ -5,6 +5,7 @@ export default defineConfig({
   title: "bao",
   base: '/vitehub/',
   description: "xiaobaobao",
+  head: [['link', { rel: 'icon', href: '/vitehub/ico.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
