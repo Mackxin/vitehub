@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "bao",
+  base: '/vitehub/',
   description: "xiaobaobao",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
