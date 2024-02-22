@@ -10,6 +10,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: 'VitHub小白',
     logo: "/telegram.svg",
+    outlineTitle: "本页目录",
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
