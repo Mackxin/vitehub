@@ -21,6 +21,10 @@ export default defineConfig({
       prev: '上一文', 
       next: '下一文' 
     },
+    editLink: {
+      pattern: "https://github.com/Mackxin/vitehub/edit/main/:path",
+      text: "Github编辑此页"
+    },
     sidebar: [
       {
         text: 'Examples',
