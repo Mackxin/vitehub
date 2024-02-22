@@ -11,6 +11,8 @@ export default defineConfig({
     siteTitle: 'VitHub小白',
     logo: "/telegram.svg",
     outlineTitle: "本页目录",
+    lastUpdated: true,
+    lastUpdatedText: "最后更新",
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
