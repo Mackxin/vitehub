@@ -7,7 +7,7 @@ hero:
   text: "vite俱乐部"
   tagline: 小白学习vitepress文档视频网站
   image:
-    src: /vitehubwechat.jpg
+    src: /vitehubwechat.png
     alt: vithubwechat
   actions:
     - theme: brand
