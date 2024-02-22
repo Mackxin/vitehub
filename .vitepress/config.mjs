@@ -33,6 +33,10 @@ export default defineConfig({
         },
         link: 'https://space.bilibili.com/15289301'
       }
-    ]
+    ],
+    footer: {
+      message: 'Released under the MIT License',
+      copyright: 'Copyright © 2024-present xiaobao'
+    }
   }
 })
