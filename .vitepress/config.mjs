@@ -17,7 +17,10 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
-
+    docFooter: { 
+      prev: '上一文', 
+      next: '下一文' 
+    },
     sidebar: [
       {
         text: 'Examples',
