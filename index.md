@@ -14,8 +14,8 @@ hero:
       text: 🍐Vithub
       link: http://baoxiaobao.asia/
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 小宝宝
+      link: /bao.md
 
 features:
   - title: 小宝
